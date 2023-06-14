@@ -8,8 +8,8 @@
     
 <div>
   <a href="https://github.com/print-stefani">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=print-stefani&theme=midnight-purple&show_icons=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-stefani&layout=compact&langs_count=16&theme=midnight-purple" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=print-stefani&theme=midnight-purple&show_icons=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-stefani&layout=compact&langs_count=16&theme=midnight-purple" />
 </div>
 
 <div style="display: inline_block"><br>
