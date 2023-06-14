@@ -4,8 +4,7 @@
 - 🖥️ Estudante de Ciências da Computação
 - ☁️ Certificada AWS Cloud Pratictioner
 - 😊 Pronomes: Ela/Dela
-
-    
+   
 <div>
   <a href="https://github.com/print-stefani">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=print-stefani&theme=midnight-purple&show_icons=true" />
