@@ -19,7 +19,7 @@
   <img align="center" alt="Stefani-Sping" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Stefani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Stefani-Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Stefani-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Stefani-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="right" alt="Stefani-GIF" height="80" width="80" src="https://i.picasion.com/pic92/b3b8a834d7047c4be1578b2a842fb4dd.gif">
 </div>
   
