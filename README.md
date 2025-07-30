@@ -1,6 +1,6 @@
 ### Oii eu sou Stefani Carvalho 👋
 
-- 👩🏻‍💻 Junior Applications Engineer
+- 👩🏻‍💻 Junior Applications Engineer na Oracle
 - 🖥️ Estudante de Ciências da Computação
 - ☁️ Certificada AWS Cloud Pratictioner 
 - 😊 Pronomes: Ela/Dela
@@ -12,6 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+   <img align="center" alt="Stefani-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Stefani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Stefani-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Stefani-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
