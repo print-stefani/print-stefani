@@ -1,8 +1,8 @@
 ### Oii eu sou Stefani Carvalho 👋
 
-- 👩🏻‍💻 Estagiaria de Desenvolvimento de Software
+- 👩🏻‍💻 Junior Applications Engineer
 - 🖥️ Estudante de Ciências da Computação
-- ☁️ Certificada AWS Cloud Pratictioner
+- ☁️ Certificada AWS Cloud Pratictioner 
 - 😊 Pronomes: Ela/Dela
    
 <div>
