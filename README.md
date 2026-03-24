@@ -1,9 +1,10 @@
-### Oii eu sou Stefani Carvalho 👋
+# 👩🏻‍💻 print("Stefani")
 
-- 👩🏻‍💻 Junior Applications Engineer na Oracle
-- 🖥️ Estudante de Ciências da Computação
-- ☁️ Certificada AWS Cloud Pratictioner 
-- 😊 Pronomes: Ela/Dela
+> **Saída:** Junior Applications Engineer @ Oracle | CS Graduate 🎓
+
+- ☁️ **Certificações:** AWS Certified Cloud Practitioner
+- 🧬 **Pronomes:** Ela/Dela.
+- 📍 **Localização:** São Paulo, Brasil.
    
 
 <div style="display: inline_block"><br>
@@ -19,7 +20,7 @@
   <img align="right" alt="Stefani-GIF" height="80" width="80" src="https://i.picasion.com/pic92/b3b8a834d7047c4be1578b2a842fb4dd.gif">
 </div>
   
-  #
+  ### 📫 Vamos nos conectar?
 <div> 
   <a href="https://www.youtube.com/channel/UCSuyI3hGcbFSBWh4H7mNYOg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/stefanicarvalh_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
