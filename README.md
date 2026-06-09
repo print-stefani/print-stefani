@@ -4,7 +4,7 @@
 
 - ☁️ **Certificações:** AWS Certified Cloud Practitioner | Oracle Generative IA Professional
 - 📍 **Localização:** São Paulo, Brasil
-- - 🧬 **Pronomes:** Ela/Dela.
+- 🧬 **Pronomes:** Ela/Dela.
    
 
 <div style="display: inline_block"><br>
