@@ -1,10 +1,10 @@
 # 👩🏻‍💻 print("Stefani")
 
-> **Saída:** Junior Applications Engineer @ Oracle | CS Graduate 🎓
+> **Saída:** Junior Applications Engineer @ Oracle | Science Computer Graduate 🎓
 
-- ☁️ **Certificações:** AWS Certified Cloud Practitioner
-- 🧬 **Pronomes:** Ela/Dela.
-- 📍 **Localização:** São Paulo, Brasil.
+- ☁️ **Certificações:** AWS Certified Cloud Practitioner | Oracle Generative IA Professional
+- 📍 **Localização:** São Paulo, Brasil
+- - 🧬 **Pronomes:** Ela/Dela.
    
 
 <div style="display: inline_block"><br>
