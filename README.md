@@ -12,8 +12,6 @@
 </div>
 
 <div style="display: inline_block"><br>
- <a href="https://github.com/print-stefani">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-stefani&langs_count=10&theme=github_purple" />
   <img align="center" alt="Stefani-Oracle" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Stefani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Stefani-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
