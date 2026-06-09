@@ -5,7 +5,11 @@
 - ☁️ **Certificações:** AWS Certified Cloud Practitioner | Oracle Generative IA Professional
 - 📍 **Localização:** São Paulo, Brasil
 - 🧬 **Pronomes:** Ela/Dela.
-   
+
+ <div>
+  <a href="https://github.com/print-stefani">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-stefani&langs_count=16&theme=github_dark" />
+</div>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Stefani-Oracle" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
@@ -28,4 +32,4 @@
   <a href = "stefanibeatrizcv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-<!-- ![snake gif](https://github.com/print-stefani/print-stefani/blob/output/github-contribution-grid-snake.svg)-- >
+[snake gif](https://github.com/print-stefani/print-stefani/blob/output/github-contribution-grid-snake.svg)
