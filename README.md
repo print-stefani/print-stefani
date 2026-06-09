@@ -6,9 +6,9 @@
 - 📍 **Localização:** São Paulo, Brasil
 - 🧬 **Pronomes:** Ela/Dela.
 
- <div>
+<div>
   <a href="https://github.com/print-stefani">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-stefani&langs_count=10&theme=github_dark" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-stefani&langs_count=10&theme=github_dark" />
 </div>
 
 <div style="display: inline_block"><br>
